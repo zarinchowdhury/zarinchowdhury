@@ -4,7 +4,7 @@
 
 <a href="https://git.io/typing-svg">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Zarin+Chowdhury+%F0%9F%91%8B"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=10B981&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Zarin+Chowdhury+%F0%9F%91%8B;Full-Stack+Developer"
     alt="Typing SVG"
   />
 </a>
@@ -133,6 +133,20 @@ Collection of static UI layouts and frontend interface examples built with HTML/
   <a href="https://github.com/zarinchowdhury?tab=repositories"><img src="https://img.shields.io/badge/Repositories-View-0284C7?style=flat-square" alt="Repositories" /></a>
 </p>
 
+<!-- GitHub Readme Stats -->
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=zarinchowdhury&show_icons=true&theme=tokyonight" alt="Zarin's GitHub Stats" />
+</p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zarinchowdhury&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zarinchowdhury&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
 </div>
 
 ---
@@ -155,6 +169,15 @@ Collection of static UI layouts and frontend interface examples built with HTML/
     </td>
   </tr>
 </table>
+
+<br/>
+
+<!-- Pinned repos (uses github-readme-stats pin API) -->
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zarinchowdhury&repo=WPL-projects&theme=tokyonight" alt="WPL-projects" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zarinchowdhury&repo=Swift_Mart&theme=tokyonight" alt="Swift_Mart" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zarinchowdhury&repo=UI_interface-&theme=tokyonight" alt="UI_interface-" />
+</p>
 
 <br/>
 
