@@ -47,6 +47,7 @@ I enjoy working across the full development cycle — from designing clean, resp
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+<img src="https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" />
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
 <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
 
@@ -136,14 +137,17 @@ Collection of static UI layouts and frontend interface examples built with HTML/
 <!-- GitHub Readme Stats -->
 
 <p>
+  <img src="https://raw.githubusercontent.com/zarinchowdhury/zarinchowdhury/main/assets/icons/stats-icon.svg" alt="stats-icon" width="28" style="vertical-align:middle; margin-right:8px;" />
   <img src="https://github-readme-stats.vercel.app/api?username=zarinchowdhury&show_icons=true&theme=tokyonight" alt="Zarin's GitHub Stats" />
 </p>
 
 <p>
+  <img src="https://raw.githubusercontent.com/zarinchowdhury/zarinchowdhury/main/assets/icons/langs-icon.svg" alt="langs-icon" width="28" style="vertical-align:middle; margin-right:8px;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zarinchowdhury&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p>
+  <img src="https://raw.githubusercontent.com/zarinchowdhury/zarinchowdhury/main/assets/icons/streak-icon.svg" alt="streak-icon" width="28" style="vertical-align:middle; margin-right:8px;" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zarinchowdhury&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
@@ -174,8 +178,11 @@ Collection of static UI layouts and frontend interface examples built with HTML/
 
 <!-- Pinned repos (uses github-readme-stats pin API) -->
 <p>
+  <img src="https://raw.githubusercontent.com/zarinchowdhury/zarinchowdhury/main/assets/icons/repo-icon.svg" alt="repo-icon" width="28" style="vertical-align:middle; margin-right:8px;" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=zarinchowdhury&repo=WPL-projects&theme=tokyonight" alt="WPL-projects" />
+  <img src="https://raw.githubusercontent.com/zarinchowdhury/zarinchowdhury/main/assets/icons/repo-icon.svg" alt="repo-icon-2" width="28" style="vertical-align:middle; margin:0 8px;" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=zarinchowdhury&repo=Swift_Mart&theme=tokyonight" alt="Swift_Mart" />
+  <img src="https://raw.githubusercontent.com/zarinchowdhury/zarinchowdhury/main/assets/icons/repo-icon.svg" alt="repo-icon-3" width="28" style="vertical-align:middle; margin-left:8px;" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=zarinchowdhury&repo=UI_interface-&theme=tokyonight" alt="UI_interface-" />
 </p>
 
