@@ -1,38 +1,16 @@
-<div align="center">
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Zarin+Chowdhury+%F0%9F%91%8B" alt="Typing SVG" />
-</a>
+# Hi, I'm Zarin Chowdhury 👋
 
 ### Full-Stack Software Developer
 
-<p>
-  Building responsive, database-driven web applications across the frontend and backend.
-  <br/>
-  Focused on developing practical, scalable, and user-friendly software solutions.
-</p>
-
-<p>
-  <a href="https://github.com/zarinchowdhury">
-    <img src="https://img.shields.io/github/followers/zarinchowdhury?label=Followers&style=flat-square&color=38BDF8" alt="GitHub Followers" />
-  </a>
-  <a href="https://github.com/zarinchowdhury?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-View-0284C7?style=flat-square" alt="Repositories" />
-  </a>
-  <a href="https://www.linkedin.com/in/zarin-chowdhury-72397b3b9/">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
-
-</div>
+Building responsive, database-driven web applications across the frontend and backend. Focused on developing practical, scalable, and user-friendly software solutions.
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a **Full-Stack Software Developer** passionate about building modern web applications, management systems, and interactive interfaces.
+I'm a **Full-Stack Software Developer** passionate about building modern web applications, management systems, and interactive interfaces. 
 
-I enjoy working across the full development lifecycle — from designing clean, responsive user interfaces and implementing core application logic to managing databases and integrating RESTful APIs. I focus on writing maintainable code and building applications that solve real problems.
+I enjoy working across the entire development cycle — from designing clean, responsive user interfaces and implementing core application logic to managing databases and integrating RESTful APIs. I focus on writing maintainable code and building applications that solve real problems.
 
 ---
 
@@ -92,15 +70,11 @@ I enjoy working across the full development lifecycle — from designing clean, 
 
 ### WPL-projects
 
-![WPL-projects screenshot](assets/screenshots/wpl-projects.svg)
-
 A collection of JavaScript projects and hands-on exercises demonstrating DOM manipulation, interactive UI components, and small utilities that showcase core frontend skills and problem-solving.
 
 ---
 
 ### CN
-
-![CN screenshot](assets/screenshots/cn.svg)
 
 A set of web-based coursework projects focused on practical JavaScript applications and utilities, including interactive demos and learning exercises.
 
@@ -108,23 +82,17 @@ A set of web-based coursework projects focused on practical JavaScript applicati
 
 ### OOP-project
 
-![OOP-project screenshot](assets/screenshots/oop-project.svg)
-
 Java-based object-oriented programming assignments and examples that demonstrate class design, inheritance, and common design patterns used in coursework and learning projects.
 
 ---
 
 ### Swift_Mart
 
-![Swift_Mart screenshot](assets/screenshots/swift_mart.svg)
-
 A Flutter/Dart shopping app prototype featuring product listing, cart management, and a simple checkout flow — useful for demonstrating mobile UI design and state management.
 
 ---
 
 ### UI_interface-
-
-![UI_interface screenshot](assets/screenshots/ui_interface.svg)
 
 Collection of static UI layouts and frontend interface examples built with HTML/CSS to showcase responsive design and prototyping skills.
 
