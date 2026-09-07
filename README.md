@@ -19,6 +19,9 @@
   <a href="https://github.com/zarinchowdhury?tab=repositories">
     <img src="https://img.shields.io/badge/Repositories-View-0284C7?style=flat-square" alt="Repositories" />
   </a>
+  <a href="https://www.linkedin.com/in/zarin-chowdhury-72397b3b9/">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
 
 </div>
@@ -85,11 +88,47 @@ I enjoy working across the full development lifecycle — from designing clean, 
 
 ## 🚀 Featured Projects
 
-- [WPL-projects](https://github.com/zarinchowdhury/WPL-projects) — Collection of JavaScript projects and exercises
-- [CN](https://github.com/zarinchowdhury/CN) — Course / project work (JavaScript)
-- [OOP-project](https://github.com/zarinchowdhury/OOP-project) — Java OOP examples and assignments
-- [Swift_Mart](https://github.com/zarinchowdhury/Swift_Mart) — Flutter/Dart shopping app
-- [UI_interface-](https://github.com/zarinchowdhury/UI_interface-) — UI and frontend interface examples
+<div align="center">
+
+### WPL-projects
+
+![WPL-projects screenshot](assets/screenshots/wpl-projects.svg)
+
+A collection of JavaScript projects and hands-on exercises demonstrating DOM manipulation, interactive UI components, and small utilities that showcase core frontend skills and problem-solving.
+
+---
+
+### CN
+
+![CN screenshot](assets/screenshots/cn.svg)
+
+A set of web-based coursework projects focused on practical JavaScript applications and utilities, including interactive demos and learning exercises.
+
+---
+
+### OOP-project
+
+![OOP-project screenshot](assets/screenshots/oop-project.svg)
+
+Java-based object-oriented programming assignments and examples that demonstrate class design, inheritance, and common design patterns used in coursework and learning projects.
+
+---
+
+### Swift_Mart
+
+![Swift_Mart screenshot](assets/screenshots/swift_mart.svg)
+
+A Flutter/Dart shopping app prototype featuring product listing, cart management, and a simple checkout flow — useful for demonstrating mobile UI design and state management.
+
+---
+
+### UI_interface-
+
+![UI_interface screenshot](assets/screenshots/ui_interface.svg)
+
+Collection of static UI layouts and frontend interface examples built with HTML/CSS to showcase responsive design and prototyping skills.
+
+</div>
 
 ---
 
@@ -150,6 +189,10 @@ I'm continuously strengthening my full-stack development skills through practica
 
 <a href="https://github.com/zarinchowdhury">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+<a href="https://www.linkedin.com/in/zarin-chowdhury-72397b3b9/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
 </div>
