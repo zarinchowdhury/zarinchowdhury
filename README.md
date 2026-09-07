@@ -1,16 +1,39 @@
-# Hi, I'm Zarin Chowdhury 👋
+<div align="center">
+
+<div align="center">
+
+<a href="https://git.io/typing-svg">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Zarin+Chowdhury+%F0%9F%91%8B"
+    alt="Typing SVG"
+  />
+</a>
 
 ### Full-Stack Software Developer
 
-Building responsive, database-driven web applications across the frontend and backend. Focused on developing practical, scalable, and user-friendly software solutions.
+<p>
+  Building responsive, database-driven web applications across the frontend and backend.
+  <br/>
+  Focused on developing practical, scalable, and user-friendly software solutions.
+</p>
+
+</div>
+
+<p>
+  <a href="https://github.com/zarinchowdhury"><img src="https://img.shields.io/github/followers/zarinchowdhury?label=Followers&style=flat-square&color=38BDF8" alt="GitHub Followers" /></a>
+  <a href="https://github.com/zarinchowdhury?tab=repositories"><img src="https://img.shields.io/badge/Repositories-View-0284C7?style=flat-square" alt="Repositories" /></a>
+  <a href="https://www.linkedin.com/in/zarin-chowdhury-72397b3b9/"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
+
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a **Full-Stack Software Developer** passionate about building modern web applications, management systems, and interactive interfaces. 
+I'm a **Full-Stack Software Developer** passionate about building modern web applications, management systems, and interactive interfaces.
 
-I enjoy working across the entire development cycle — from designing clean, responsive user interfaces and implementing core application logic to managing databases and integrating RESTful APIs. I focus on writing maintainable code and building applications that solve real problems.
+I enjoy working across the full development cycle — from designing clean, responsive user interfaces and implementing core application logic to managing databases and integrating RESTful APIs. I'm focused on writing maintainable code and delivering practical solutions.
 
 ---
 
@@ -138,8 +161,6 @@ Collection of static UI layouts and frontend interface examples built with HTML/
 <a href="https://github.com/zarinchowdhury"><img src="https://img.shields.io/badge/View%20My%20GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Profile" /></a>
 
 </div>
-
----
 
 ## 📚 Currently Growing
 
