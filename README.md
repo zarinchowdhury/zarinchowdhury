@@ -225,6 +225,10 @@ I'm continuously strengthening my full-stack development skills through practica
 
 </div>
 
+<p align="center">
+  <strong>Email:</strong> zarinchowdhury6772@gmail.com
+</p>
+
 <br/>
 
 <div align="center">
