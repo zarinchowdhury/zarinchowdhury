@@ -2,7 +2,7 @@
 
 <a href="https://git.io/typing-svg">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=7DD3FC&center=true&vCenter=true&width=680&lines=Hi%2C+I'm+Zarin+Chowdhury+%F0%9F%91%8B"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Zarin+Chowdhury+%F0%9F%91%8B"
     alt="Typing SVG"
   />
 </a>
@@ -10,7 +10,9 @@
 ### Full-Stack Web Developer
 
 <p>
-  Building practical, scalable, and user-focused web applications with clean architecture and strong product thinking.
+  Building responsive, scalable web applications and modern digital products.
+  <br/>
+  Focused on clean architecture, intuitive UX, and practical software solutions.
 </p>
 
 <p>
@@ -32,62 +34,76 @@
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-I’m a full-stack developer focused on delivering modern digital products that are maintainable, scalable, and built around real user needs. I enjoy translating ideas into polished experiences by combining strong frontend design with reliable backend systems and efficient database architecture.
+I'm a **Full-Stack Web Developer** with hands-on experience building production-grade web applications, responsive interfaces, and scalable backend systems. I'm committed to delivering digital products that combine clean architecture with practical business value.
 
-My work is built around **Vue.js, Laravel, PHP, JavaScript, MySQL, Bootstrap, and Tailwind CSS**, with additional experience in **React, Node.js, MongoDB, HTML5, CSS3, and modern development workflows**.
+My primary development stack is centered around **Vue.js, Laravel, PHP, JavaScript, MySQL, Bootstrap, and Tailwind CSS**, complemented by experience in **React, Node.js, MongoDB, HTML5, CSS3, and Git/GitHub workflows**.
 
-I care deeply about clean code, architecture clarity, and building solutions that are not only functional but also easy to extend and maintain over time.
-
----
-
-## What I Bring
-
-- **Full-stack product building** from concept to deployment
-- **Responsive UI/UX** with a focus on usability and clarity
-- **Backend systems** built with Laravel, PHP, and REST APIs
-- **Database design** and application optimization for real-world performance
-- **Clean, scalable architecture** for long-term maintainability
+I enjoy working across the complete development lifecycle — from architecting database schemas and designing RESTful APIs to crafting responsive, user-focused interfaces and optimizing application performance.
 
 ---
 
-## Portfolio
+## 🚀 Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🛒 Swift_Mart</h3>
-      <p>Modern e-commerce platform focused on smooth product discovery, clean storefront design, and an efficient customer journey.</p>
-      <p><strong>Stack:</strong> <code>Vue.js</code>, <code>Laravel</code>, <code>PHP</code>, <code>MySQL</code>, <code>Tailwind CSS</code></p>
+      <h3>🛒 Swift_Mart | E-Commerce Platform</h3>
+      <p>
+        Modern e-commerce website designed for smooth product discovery, clean storefront presentation, and an efficient shopping experience.
+      </p>
+      <ul>
+        <li><strong>Focus:</strong> Online shopping flow, product browsing, and user-friendly checkout.</li>
+        <li><strong>Features:</strong> Product catalog management, cart functionality, and responsive design.</li>
+        <li><strong>Stack:</strong> <code>Vue.js</code>, <code>Laravel</code>, <code>PHP</code>, <code>MySQL</code>, <code>Tailwind CSS</code></li>
+      </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>🌍 Bangladesh Administrative Areas</h3>
-      <p>Interactive geographic dashboard designed to present administrative data clearly, accessibly, and in a structured digital format.</p>
-      <p><strong>Stack:</strong> <code>Vue.js</code>, <code>JavaScript</code>, <code>HTML5</code>, <code>CSS3</code></p>
+      <h3>🌍 Bangladesh Administrative Areas | Dashboard</h3>
+      <p>
+        Interactive geographic dashboard for presenting administrative and location-based data in an accessible, structured format.
+      </p>
+      <ul>
+        <li><strong>Focus:</strong> Data visualization and responsive UI design.</li>
+        <li><strong>Features:</strong> Interactive maps, location filtering, and clean information architecture.</li>
+        <li><strong>Stack:</strong> <code>Vue.js</code>, <code>JavaScript</code>, <code>HTML5</code>, <code>CSS3</code></li>
+      </ul>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>✍️ BlogSphere</h3>
-      <p>Blogging platform built for publishing, organizing, and presenting content with a clean editorial workflow and modern interface.</p>
-      <p><strong>Stack:</strong> <code>Laravel</code>, <code>PHP</code>, <code>MySQL</code>, <code>JavaScript</code></p>
+      <h3>✍️ BlogSphere | Publishing Platform</h3>
+      <p>
+        Content-focused blogging platform built for writing, publishing, and managing blog posts with a clean editorial workflow.
+      </p>
+      <ul>
+        <li><strong>Focus:</strong> Blog publishing and content management systems.</li>
+        <li><strong>Features:</strong> Post creation, editing workflows, and content organization.</li>
+        <li><strong>Stack:</strong> <code>Laravel</code>, <code>PHP</code>, <code>MySQL</code>, <code>JavaScript</code></li>
+      </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>📚 BookStore-vue-js-</h3>
-      <p>Digital bookstore experience centered on product discovery, browsing flow, and a streamlined storefront presentation.</p>
-      <p><strong>Stack:</strong> <code>Vue.js</code>, <code>Bootstrap</code>, <code>JavaScript</code>, <code>CSS3</code></p>
+      <h3>📚 BookStore-vue-js- | Digital Storefront</h3>
+      <p>
+        Digital bookstore application centered on product discovery, catalog browsing, and a streamlined e-commerce experience.
+      </p>
+      <ul>
+        <li><strong>Focus:</strong> Book catalog display and online shopping flow.</li>
+        <li><strong>Features:</strong> Product listings, filtering, and responsive storefront.</li>
+        <li><strong>Stack:</strong> <code>Vue.js</code>, <code>Bootstrap</code>, <code>JavaScript</code>, <code>CSS3</code></li>
+      </ul>
     </td>
   </tr>
 </table>
 
 ---
 
-<div align="center">
-
-## Tech Stack
+## 🛠️ Tech Stack
 
 ### Frontend
+
+<div align="center">
 
 <img src="https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" />
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
@@ -95,61 +111,105 @@ I care deeply about clean code, architecture clarity, and building solutions tha
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+
+</div>
 
 ### Backend & Database
+
+<div align="center">
 
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API" />
 
+</div>
+
 ### Tools & Workflow
+
+<div align="center">
 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
 
 </div>
 
 ---
 
-## GitHub Overview
+## 💻 Development Focus
+
+My recent work has primarily involved:
+
+* **Full-stack web application development**
+* **Responsive and user-centered interface design**
+* **Vue.js single-page applications**
+* **Laravel & PHP REST API development**
+* **MySQL schema design, relations, and indexing**
+* **Responsive frontend development (Bootstrap & Tailwind CSS)**
+* **E-commerce platform development**
+* **Data visualization and dashboard creation**
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<p>
+  <a href="https://github.com/zarinchowdhury"><img src="https://img.shields.io/github/followers/zarinchowdhury?style=flat-square&color=38BDF8" alt="Followers" /></a>
+  <a href="https://github.com/zarinchowdhury/zarinchowdhury"><img src="https://img.shields.io/github/last-commit/zarinchowdhury/zarinchowdhury?style=flat-square&color=0284C7" alt="Last Commit" /></a>
+  <a href="https://github.com/zarinchowdhury?tab=repositories"><img src="https://img.shields.io/badge/Repositories-12-0284C7?style=flat-square" alt="Repositories" /></a>
+  <img src="https://komarev.com/ghpvc/?username=zarinchowdhury&label=Profile%20Views&color=38bdf8&style=flat-square" alt="Profile Views" />
+</p>
+
+</div>
+
+---
+
+## 🔥 Contribution Overview
 
 <div align="center">
 
 <table>
   <tr>
-    <td align="center">
+    <td align="center" valign="middle">
       <a href="https://github.com/zarinchowdhury">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zarinchowdhury&theme=tokyonight" alt="GitHub profile details" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zarinchowdhury&theme=tokyonight" alt="GitHub Profile Details" />
       </a>
     </td>
-    <td align="center">
+    <td align="center" valign="middle">
       <a href="https://github.com/zarinchowdhury">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zarinchowdhury&theme=tokyonight" alt="Most used languages" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zarinchowdhury&theme=tokyonight" alt="Top Languages" />
       </a>
     </td>
   </tr>
 </table>
 
+<br/>
+
 </div>
 
 ---
 
-## Current Focus
+## 📚 Currently Growing
+
+I'm continuously strengthening my full-stack development skills through practical projects, hands-on development, and real-world problem solving.
+
+**Current focus:**
 
 `Vue.js` · `Laravel` · `PHP` · `JavaScript` · `MySQL` · `REST APIs` · `Responsive UI` · `Scalable Architecture`
 
 ---
 
-## Let’s Connect
+## 🤝 Connect With Me
 
 <div align="center">
 
@@ -168,5 +228,7 @@ I care deeply about clean code, architecture clarity, and building solutions tha
 <br/>
 
 <div align="center">
-  <sub>Building products with clarity, discipline, and purpose.</sub>
+
+<sub>Building practical software. Learning continuously. Improving with every project.</sub>
+
 </div>
