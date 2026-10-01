@@ -4,7 +4,7 @@
 
 <a href="https://git.io/typing-svg">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Zarin+Chowdhury+%F0%9F%91%8B"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Zarin+Chowdhury+%F0%9F%91%8B"
     alt="Typing SVG"
   />
 </a>
@@ -12,9 +12,9 @@
 ### Full-Stack Web Developer
 
 <p>
-  I design and build modern, scalable web applications with a strong focus on clean architecture,
+  Designing and building modern, scalable web applications with clean architecture,
   <br/>
-  responsive interfaces, and practical product thinking.
+  responsive interfaces, and a strong focus on user experience and product quality.
 </p>
 
 </div>
@@ -30,7 +30,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:zarinchowdhury6772@gmail.com">
-    <img src="https://img.shields.io/badge/Email-zarinchowdhury6772%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
@@ -40,11 +40,11 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Full-Stack Web Developer** with a passion for building practical, user-focused digital products. I enjoy turning ideas into polished applications by combining clean frontend experiences with reliable backend architecture.
+I'm a **Full-Stack Web Developer** committed to building practical, scalable, and user-focused digital products. I combine clean frontend design with robust backend architecture to create seamless applications that solve real-world problems.
 
-My work centers around **Vue.js, Laravel, PHP, JavaScript, MySQL, Bootstrap, and Tailwind CSS**, with additional experience in **React, Node.js, MongoDB, HTML5, CSS3, and Git/GitHub**.
+My expertise spans **Vue.js, Laravel, PHP, JavaScript, MySQL, Bootstrap, and Tailwind CSS**, with additional experience in **React, Node.js, MongoDB, HTML5, CSS3, and modern development workflows**.
 
-I enjoy working across the entire product lifecycle — from planning and architecture to implementation, testing, and deployment — with a strong emphasis on scalability, maintainability, and real-world usability.
+I'm passionate about writing maintainable code, optimizing database performance, and delivering polished user experiences across the full stack.
 
 ---
 
@@ -55,20 +55,20 @@ I enjoy working across the entire product lifecycle — from planning and archit
     <td width="50%" valign="top">
       <h3>🛒 Swift_Mart</h3>
       <p>
-        A modern e-commerce website designed to deliver a smooth shopping experience with clean product presentation and usability-focused UI.
+        A modern e-commerce platform designed for seamless product browsing and purchasing. Built with attention to user flow and interface clarity.
       </p>
       <ul>
-        <li><strong>Focus:</strong> Online shopping flow and product browsing experience.</li>
+        <li><strong>Focus:</strong> Online shopping experience and product management.</li>
         <li><strong>Stack:</strong> <code>Vue.js</code>, <code>Laravel</code>, <code>PHP</code>, <code>MySQL</code>, <code>Tailwind CSS</code></li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <h3>🌍 Bangladesh Administrative Areas</h3>
       <p>
-        An interactive dashboard built to present geographic and administrative information in a clean, accessible, user-friendly format.
+        An interactive geographic dashboard presenting administrative data in an accessible and engaging format.
       </p>
       <ul>
-        <li><strong>Focus:</strong> Data presentation and responsive dashboard design.</li>
+        <li><strong>Focus:</strong> Data visualization and responsive UI.</li>
         <li><strong>Stack:</strong> <code>Vue.js</code>, <code>JavaScript</code>, <code>HTML5</code>, <code>CSS3</code></li>
       </ul>
     </td>
@@ -77,20 +77,20 @@ I enjoy working across the entire product lifecycle — from planning and archit
     <td width="50%" valign="top">
       <h3>✍️ BlogSphere</h3>
       <p>
-        A blog platform focused on content publishing with a clean interface and straightforward content management workflow.
+        A content publishing platform with intuitive workflows for writing, publishing, and managing blog posts.
       </p>
       <ul>
-        <li><strong>Focus:</strong> Blogging experience and content management.</li>
+        <li><strong>Focus:</strong> Blog publishing and content management systems.</li>
         <li><strong>Stack:</strong> <code>Laravel</code>, <code>PHP</code>, <code>MySQL</code>, <code>JavaScript</code></li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <h3>📚 BookStore-vue-js-</h3>
       <p>
-        A bookstore web app designed to present books attractively and support an easy browsing and shopping experience.
+        A digital bookstore application showcasing catalog management and a polished shopping experience.
       </p>
       <ul>
-        <li><strong>Focus:</strong> Catalog display and digital storefront experience.</li>
+        <li><strong>Focus:</strong> Catalog display and e-commerce workflows.</li>
         <li><strong>Stack:</strong> <code>Vue.js</code>, <code>JavaScript</code>, <code>Bootstrap</code>, <code>CSS3</code></li>
       </ul>
     </td>
@@ -144,14 +144,15 @@ I enjoy working across the entire product lifecycle — from planning and archit
 
 ## 💻 Development Focus
 
-My recent work has primarily focused on:
+My core areas of expertise and recent work:
 
 * **Full-stack web application development**
 * **Responsive and user-centered interface design**
 * **Laravel and PHP backend architecture**
 * **Vue.js single-page applications**
-* **MySQL schema design and optimization**
+* **MySQL schema design and database optimization**
 * **Clean, scalable, and maintainable code practices**
+* **RESTful API design and implementation**
 
 ---
 
@@ -170,13 +171,38 @@ My recent work has primarily focused on:
 
 ---
 
+## 🔥 Contribution Overview
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" valign="middle">
+      <a href="https://github.com/zarinchowdhury">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zarinchowdhury&theme=tokyonight" alt="GitHub Profile Details" />
+      </a>
+    </td>
+    <td align="center" valign="middle">
+      <a href="https://github.com/zarinchowdhury">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zarinchowdhury&theme=tokyonight" alt="Top Languages" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+</div>
+
+---
+
 ## 📚 Currently Growing
 
-I’m continuously improving my skills through hands-on projects, experimentation, and real-world problem solving.
+I'm continuously strengthening my full-stack development skills through hands-on projects, experimentation, and real-world problem solving.
 
 **Current focus:**
 
-`Vue.js` · `Laravel` · `PHP` · `JavaScript` · `MySQL` · `REST APIs` · `Responsive UI` · `Scalable Web Apps`
+`Vue.js` · `Laravel` · `PHP` · `JavaScript` · `MySQL` · `REST APIs` · `Responsive UI` · `Scalable Architecture`
 
 ---
 
