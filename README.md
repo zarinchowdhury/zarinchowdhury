@@ -10,7 +10,7 @@
 ### Full-Stack Web Developer
 
 <p>
-  Building modern web products with clean architecture, strong UX, and practical business value.
+  Building practical, scalable, and user-focused web applications with clean architecture and strong product thinking.
 </p>
 
 <p>
@@ -32,38 +32,50 @@
 
 ---
 
-## About
+## About Me
 
-I'm a full-stack developer focused on building high-quality web applications that are maintainable, scalable, and user-centered. I enjoy turning ideas into polished digital products through strong frontend execution, practical backend architecture, and clean code.
+I’m a full-stack developer focused on delivering modern digital products that are maintainable, scalable, and built around real user needs. I enjoy translating ideas into polished experiences by combining strong frontend design with reliable backend systems and efficient database architecture.
 
-My work centers on **Vue.js, Laravel, PHP, JavaScript, MySQL, and responsive UI development**, with additional experience in **React, Node.js, MongoDB, Bootstrap, and Tailwind CSS**.
+My work is built around **Vue.js, Laravel, PHP, JavaScript, MySQL, Bootstrap, and Tailwind CSS**, with additional experience in **React, Node.js, MongoDB, HTML5, CSS3, and modern development workflows**.
+
+I care deeply about clean code, architecture clarity, and building solutions that are not only functional but also easy to extend and maintain over time.
 
 ---
 
-## Selected Work
+## What I Bring
+
+- **Full-stack product building** from concept to deployment
+- **Responsive UI/UX** with a focus on usability and clarity
+- **Backend systems** built with Laravel, PHP, and REST APIs
+- **Database design** and application optimization for real-world performance
+- **Clean, scalable architecture** for long-term maintainability
+
+---
+
+## Portfolio
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3>🛒 Swift_Mart</h3>
-      <p>Modern e-commerce platform focused on smooth product discovery and a clean shopping experience.</p>
+      <p>Modern e-commerce platform focused on smooth product discovery, clean storefront design, and an efficient customer journey.</p>
       <p><strong>Stack:</strong> <code>Vue.js</code>, <code>Laravel</code>, <code>PHP</code>, <code>MySQL</code>, <code>Tailwind CSS</code></p>
     </td>
     <td width="50%" valign="top">
       <h3>🌍 Bangladesh Administrative Areas</h3>
-      <p>Responsive dashboard for geographic and administrative data presentation with a clear user experience.</p>
+      <p>Interactive geographic dashboard designed to present administrative data clearly, accessibly, and in a structured digital format.</p>
       <p><strong>Stack:</strong> <code>Vue.js</code>, <code>JavaScript</code>, <code>HTML5</code>, <code>CSS3</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>✍️ BlogSphere</h3>
-      <p>Blogging platform designed for content publishing, structured organization, and clean editorial workflows.</p>
+      <p>Blogging platform built for publishing, organizing, and presenting content with a clean editorial workflow and modern interface.</p>
       <p><strong>Stack:</strong> <code>Laravel</code>, <code>PHP</code>, <code>MySQL</code>, <code>JavaScript</code></p>
     </td>
     <td width="50%" valign="top">
       <h3>📚 BookStore-vue-js-</h3>
-      <p>Digital bookstore experience centered on catalog browsing and a user-friendly storefront flow.</p>
+      <p>Digital bookstore experience centered on product discovery, browsing flow, and a streamlined storefront presentation.</p>
       <p><strong>Stack:</strong> <code>Vue.js</code>, <code>Bootstrap</code>, <code>JavaScript</code>, <code>CSS3</code></p>
     </td>
   </tr>
@@ -131,13 +143,13 @@ My work centers on **Vue.js, Laravel, PHP, JavaScript, MySQL, and responsive UI 
 
 ---
 
-## Currently Focused On
+## Current Focus
 
 `Vue.js` · `Laravel` · `PHP` · `JavaScript` · `MySQL` · `REST APIs` · `Responsive UI` · `Scalable Architecture`
 
 ---
 
-## Let's Connect
+## Let’s Connect
 
 <div align="center">
 
