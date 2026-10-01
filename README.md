@@ -4,30 +4,30 @@
 
 <a href="https://git.io/typing-svg">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Naima+Rahman+%F0%9F%91%8B"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Zarin+Chowdhury+%F0%9F%91%8B"
     alt="Typing SVG"
   />
 </a>
 
-### Full-Stack Software Developer
+### Full-Stack Web Developer
 
 <p>
-  Building responsive, database-driven web applications and scalable multi-tenant platforms.
+  Building modern, responsive, and scalable web applications with clean architecture and real-world functionality.
   <br/>
-  Focused on clean architecture, intuitive UX, and practical software solutions.
+  Focused on creating user-friendly experiences backed by solid backend systems and efficient database design.
 </p>
 
 </div>
 
 <p>
-  <a href="https://github.com/Naima006">
-    <img src="https://img.shields.io/github/followers/Naima006?label=Followers&style=flat-square&color=38BDF8" alt="GitHub Followers" />
+  <a href="https://github.com/zarinchowdhury">
+    <img src="https://img.shields.io/github/followers/zarinchowdhury?label=Followers&style=flat-square&color=38BDF8" alt="GitHub Followers" />
   </a>
-  <a href="https://github.com/Naima006?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-29-0284C7?style=flat-square" alt="Repositories" />
+  <a href="https://github.com/zarinchowdhury?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-12-0284C7?style=flat-square" alt="Repositories" />
   </a>
-  <a href="https://linkedin.com/in/naima-rahman-176196308">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://github.com/zarinchowdhury/zarinchowdhury">
+    <img src="https://img.shields.io/badge/Profile-README-181717?style=flat-square&logo=github&logoColor=white" alt="Profile README" />
   </a>
 </p>
 
@@ -37,11 +37,11 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Full-Stack Software Developer** and Software Engineering student with hands-on experience building production-grade web applications, multi-tenant SaaS systems, interactive interfaces, and clean backend services. I enjoy solving real-world problems through scalable system design and practical product development.
+I'm a **Full-Stack Web Developer** focused on building practical, scalable, and user-friendly software solutions. I enjoy turning ideas into polished digital products through thoughtful frontend design, solid backend logic, and efficient database architecture.
 
-My primary development stack is centered around **Vue.js, Laravel, PHP, JavaScript, MySQL, Bootstrap, and Vite**, complemented by project experience in **React, Node.js, MongoDB (MERN), Java, Python, and C++**.
+My development stack revolves around **Vue.js, Laravel, PHP, JavaScript, MySQL, Bootstrap, and Tailwind CSS**, with additional experience in **React, Node.js, MongoDB, HTML5, CSS3, and Git/GitHub**.
 
-I enjoy working across the complete development lifecycle from architecting database schemas and designing RESTful APIs to crafting responsive, accessible user interfaces.
+I enjoy working across the full development lifecycle—from planning and database design to building APIs, implementing UI/UX, and delivering clean final products.
 
 ---
 
@@ -50,35 +50,45 @@ I enjoy working across the complete development lifecycle from architecting data
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🌍 Path2Study | Multi-Tenant SaaS CRM</h3>
+      <h3>🛒 Swift_Mart</h3>
       <p>
-        End-to-end CRM for study-abroad consultancies. Organisations manage leads, students, applications, and documents from enquiry through admission, with a separate student portal and centralised admin control.
+        A modern e-commerce application focused on smooth shopping experience, product browsing, and clean user interface design.
       </p>
       <ul>
-        <li><strong>Multi-tenancy:</strong> One database per organisation, subdomain routing, and plan-based limits on staff, students, and storage.</li>
-        <li><strong>Operations:</strong> Lead intent scoring (HOT / WARM / COLD), student readiness and document vault progress, 8-stage application pipeline, and scholarship handling with country and intake filters.</li>
-        <li><strong>Portals:</strong> Staff CRM, student self-service, public tenant landing with consultation form, and Super Admin for organisations, plans, and billing.</li>
-        <li><strong>Stack:</strong> <code>Laravel</code>, <code>Vue 3</code>, <code>Pinia</code>, <code>MySQL</code>, <code>Sanctum</code>, <code>stancl/tenancy</code>, <code>Tailwind CSS</code>, <code>Vite</code></li>
+        <li><strong>Focus:</strong> Online shopping experience and product management.</li>
+        <li><strong>Stack:</strong> <code>Vue.js</code>, <code>Laravel</code>, <code>PHP</code>, <code>MySQL</code>, <code>Tailwind CSS</code></li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>💰 FinanceFlow | Full-Stack Accounting System</h3>
-      <p>Accounting web app for small businesses, covering journal entries, ledgers, trial balance, and core financial reporting.</p>
+      <h3>🌍 Bangladesh Administrative Areas</h3>
+      <p>
+        An interactive location-based dashboard for exploring administrative areas with a user-friendly interface.
+      </p>
       <ul>
-        <li><strong>Operations:</strong> Double-entry bookkeeping, automated ledger generation, and report views for income and balance sheet summaries.</li>
-        <li><strong>Workflow:</strong> Secure user authentication, protected routes, and responsive dashboards for day-to-day financial tracking.</li>
-        <li><strong>Stack:</strong> <code>React</code>, <code>Vite</code>, <code>Tailwind CSS</code>, <code>PHP</code>, <code>MySQL</code>, <code>Firebase Auth</code></li>
+        <li><strong>Focus:</strong> Data presentation and responsive UI design.</li>
+        <li><strong>Stack:</strong> <code>Vue.js</code>, <code>JavaScript</code>, <code>HTML5</code>, <code>CSS3</code></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td colspan="2" valign="top">
-      <h3>✍️ TechSpace | Full-Stack Publishing Platform</h3>
-      <p>Content platform for technology articles with public reading, author workflows, and admin moderation.</p>
+    <td width="50%" valign="top">
+      <h3>✍️ BlogSphere</h3>
+      <p>
+        A blog platform designed for publishing, reading, and managing content in a clean and engaging interface.
+      </p>
       <ul>
-        <li><strong>Architecture:</strong> Visitor, author, and admin roles with approval-based publishing and session-based access control.</li>
-        <li><strong>Key Features:</strong> Live preview, post search, archives, view tracking, analytics dashboard, and responsive glass-style UI.</li>
-        <li><strong>Tech Stack:</strong> <code>PHP</code>, <code>MySQL</code>, <code>JavaScript</code>, <code>HTML5</code>, <code>CSS3</code></li>
+        <li><strong>Focus:</strong> Content publishing and blog workflows.</li>
+        <li><strong>Stack:</strong> <code>Laravel</code>, <code>PHP</code>, <code>MySQL</code>, <code>JavaScript</code></li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📚 BookStore-vue-js-</h3>
+      <p>
+        An online bookstore application focused on catalog browsing, clean design, and simple digital commerce workflows.
+      </p>
+      <ul>
+        <li><strong>Focus:</strong> Book listing and online shopping flow.</li>
+        <li><strong>Stack:</strong> <code>Vue.js</code>, <code>JavaScript</code>, <code>Bootstrap</code>, <code>CSS3</code></li>
       </ul>
     </td>
   </tr>
@@ -109,23 +119,9 @@ I enjoy working across the complete development lifecycle from architecting data
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API" />
-
-</div>
-
-### Other Technologies
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
 
 </div>
 
@@ -138,8 +134,21 @@ I enjoy working across the complete development lifecycle from architecting data
 <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-<img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" alt="XAMPP" />
-<img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white" alt="phpMyAdmin" />
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<p>
+  <a href="https://github.com/zarinchowdhury"><img src="https://img.shields.io/github/followers/zarinchowdhury?style=flat-square&color=38BDF8" alt="Followers" /></a>
+  <a href="https://github.com/zarinchowdhury/zarinchowdhury"><img src="https://img.shields.io/github/last-commit/zarinchowdhury/zarinchowdhury?style=flat-square&color=0284C7" alt="Last Commit" /></a>
+  <a href="https://github.com/zarinchowdhury?tab=repositories"><img src="https://img.shields.io/badge/Repositories-12-0284C7?style=flat-square" alt="Repositories" /></a>
+  <img src="https://komarev.com/ghpvc/?username=zarinchowdhury&label=Profile%20Views&color=38bdf8&style=flat-square" alt="Profile Views" />
+</p>
 
 </div>
 
@@ -150,67 +159,21 @@ I enjoy working across the complete development lifecycle from architecting data
 My recent work has primarily involved:
 
 * **Full-stack web application development**
-* **Multi-tenant SaaS architecture & database segregation**
-* **Vue.js single-page applications**
-* **Laravel & PHP REST API development**
-* **MySQL schema design, relations, and indexing**
-* **Responsive frontend development (Bootstrap & Tailwind CSS)**
-* **Role-based access control (RBAC) and authentication workflows**
-* **Data pipelines, scoring algorithms, and analytics dashboards**
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<p>
-  <a href="https://github.com/Naima006"><img src="https://img.shields.io/github/followers/Naima006?style=flat-square&color=38BDF8" alt="Followers" /></a>
-  <a href="https://github.com/Naima006/Naima006"><img src="https://img.shields.io/github/last-commit/Naima006/Naima006?style=flat-square&color=0284C7" alt="Last Commit" /></a>
-  <a href="https://github.com/Naima006?tab=repositories"><img src="https://img.shields.io/badge/Repositories-29-0284C7?style=flat-square" alt="Repositories" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Naima006&label=Profile%20Views&color=38bdf8&style=flat-square" alt="Profile Views" />
-</p>
-
-</div>
-
----
-
-## 🔥 Contribution Overview
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center" valign="middle">
-      <a href="https://github.com/Naima006">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Naima006&theme=tokyonight" alt="GitHub Profile Details" />
-      </a>
-    </td>
-    <td align="center" valign="middle">
-      <a href="https://github.com/Naima006">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Naima006&theme=tokyonight" alt="Top Languages" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<a href="https://github.com/Naima006">
-  <img src="https://img.shields.io/badge/View%20My%20GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Profile" />
-</a>
-
-</div>
+* **Responsive and modern user interface design**
+* **Laravel & PHP backend architecture**
+* **Vue.js SPA development**
+* **Database design and application optimization**
+* **Clean, scalable, and maintainable code practices**
 
 ---
 
 ## 📚 Currently Growing
 
-I'm continuously strengthening my full-stack development skills through practical projects and hands-on development.
+I'm continuously improving my skills through practical projects, hands-on development, and real-world problem solving.
 
 **Current focus:**
 
-`Vue.js` · `Laravel` · `PHP` · `JavaScript` · `MySQL` · `REST APIs` · `Multi-Tenancy` · `Responsive UI`
+`Vue.js` · `Laravel` · `PHP` · `JavaScript` · `MySQL` · `REST APIs` · `Responsive UI` · `Scalable Web Apps`
 
 ---
 
@@ -218,12 +181,8 @@ I'm continuously strengthening my full-stack development skills through practica
 
 <div align="center">
 
-<a href="https://github.com/Naima006">
+<a href="https://github.com/zarinchowdhury">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-
-<a href="https://linkedin.com/in/naima-rahman-176196308">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
 </div>
@@ -232,6 +191,6 @@ I'm continuously strengthening my full-stack development skills through practica
 
 <div align="center">
 
-<sub>Building practical software. Learning continuously. Improving with every project.</sub>
+<sub>Building practical software. Learning daily. Improving with every project.</sub>
 
 </div>
